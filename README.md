@@ -1,2 +1,2 @@
-# BeadsDAO
-Beads Decentralized Autonomous Organization
+# LIFEDAO
+TRANSFINITE INFINITE LIFE Decentralized Autonomous Organization
