@@ -1,2 +1,2 @@
 # LIFEDAO
-LIFE Decentralized Autonomous Organization
+TRANSFINITE INFINITE LIFE Decentralized Autonomous Organization
