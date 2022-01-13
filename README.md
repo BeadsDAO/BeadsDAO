@@ -1,2 +1,2 @@
-# BeadsDAO
-Beads Decentralized Autonomous Organization
+# LIFEDAO
+LIFE Decentralized Autonomous Organization
